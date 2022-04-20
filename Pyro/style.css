@@ -1,0 +1,16 @@
+.bg-cover {
+    background-size: cover !important;}
+.row {text-align: justify; color: azure; font-family: 
+    'Times New Roman';}
+.pyro {font-family: Impact;color: rgb(72, 146, 122);}
+.characters {color: black;font-family: Impact;}
+.blue {color: rgb(29, 173, 0);}
+.write {color: aquamarine; font-weight: 400;font-family: Impact;}
+.yanfei {color: rgb(255, 164, 108);font-family: Impact;}
+.yellow {color: rgb(255, 220, 62);}
+.normal {font-family: Impact;}
+.none {color: rgb(255, 238, 0);font-family: Impact;}
+.carousel-item{ 
+    height: 25rem;
+position: relative;
+}
